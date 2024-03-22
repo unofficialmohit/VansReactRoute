@@ -14,7 +14,7 @@ export default function Header() {
     
     return (
         <header>
-            <Link className="site-logo" to="/">#Vangator</Link>
+            <Link className="site-logo" to="/">#VanGator</Link>
             <nav>
                 <NavLink 
                     to="host"
